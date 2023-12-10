@@ -6,5 +6,4 @@ void main(List<String> args) {
   // ignore: constant_identifier_names
   const SomeName = 'foo';
   print(SomeName);
-  
 }
