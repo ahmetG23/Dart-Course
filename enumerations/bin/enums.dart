@@ -21,7 +21,11 @@ void main(List<String> args) {
   }
 }
 
- 
+enum AnimalType {
+  rabbit,
+  dog,
+  cat,
+}
 
 class Animal {
   final AnimalType type;
